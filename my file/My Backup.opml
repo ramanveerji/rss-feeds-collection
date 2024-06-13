@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="2.0">
+  <head>
+    <title>Read You</title>
+    <dateCreated>Thu Jun 13 17:54:01 GMT+05:30 2024</dateCreated>
+  </head>
+  <body>
+    <outline text="Job Alert" title="Job Alert">    <outline htmlUrl="https://feeds.feedburner.com/freejobalert" text="FreeJobAlert" title="FreeJobAlert" xmlUrl="https://feeds.feedburner.com/freejobalert" />
+    <outline htmlUrl="https://affairscloud.com/jobs/feed/" text="JobsCloud" title="JobsCloud" xmlUrl="https://affairscloud.com/jobs/feed/" />
+    <outline htmlUrl="https://studycafe.in/feed/" text="Studycafe" title="Studycafe" xmlUrl="https://studycafe.in/feed/" />
+    <outline htmlUrl="https://studycafe.in/tag/recruitment-2024/feed/" text="Recruitment 2024 – Studycafe" title="Recruitment 2024 – Studycafe" xmlUrl="https://studycafe.in/tag/recruitment-2024/feed/" />
+    <outline htmlUrl="https://cdc.org.in/feed/" text="Career Decision Choice" title="Career Decision Choice" xmlUrl="https://cdc.org.in/feed/" />
+</outline>
+    <outline text="Indian News" title="Indian News">    <outline htmlUrl="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml" />
+    <outline htmlUrl="https://www.theguardian.com/world/india/rss" text="India | The Guardian" title="India | The Guardian" xmlUrl="https://www.theguardian.com/world/india/rss" />
+    <outline htmlUrl="https://www.thehindu.com/feeder/default.rss" text="The Hindu" title="The Hindu" xmlUrl="https://www.thehindu.com/feeder/default.rss" />
+    <outline htmlUrl="https://www.bhaskar.com/rss-feed/1061/" text="देश | दैनिक भास्कर" title="देश | दैनिक भास्कर" xmlUrl="https://www.bhaskar.com/rss-feed/1061/" />
+</outline>
+    <outline text="Business" title="Business">    <outline htmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" text="Economic Times" title="Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" />
+</outline>
+    <outline text="Science" title="Science">    <outline htmlUrl="https://phys.org/rss-feed/" text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" />
+</outline>
+    <outline text="Space" title="Space">    <outline htmlUrl="https://www.theguardian.com/science/space/rss" text="Space | The Guardian" title="Space | The Guardian" xmlUrl="https://www.theguardian.com/science/space/rss" />
+</outline>
+    <outline text="Cricket" title="Cricket">    <outline htmlUrl="https://www.theguardian.com/sport/cricket/rss" text="Cricket | The Guardian" title="Cricket | The Guardian" xmlUrl="https://www.theguardian.com/sport/cricket/rss" />
+    <outline htmlUrl="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" text="Cricket news from ESPN Cricinfo.com" title="Cricket news from ESPN Cricinfo.com" xmlUrl="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" />
+</outline>
+    <outline text="Android" title="Android">    <outline htmlUrl="http://feeds.androidcentral.com/androidcentral" text="Android Central RSS Feed " title="Android Central RSS Feed " xmlUrl="http://feeds.androidcentral.com/androidcentral" />
+</outline>
+    <outline text="Photography" title="Photography">    <outline htmlUrl="https://lightroomkillertips.com/feed/" text="Lightroom Killer Tips" title="Lightroom Killer Tips" xmlUrl="https://lightroomkillertips.com/feed/" />
+</outline>
+    <outline text="Punjab News" title="Punjab News">    <outline htmlUrl="https://www.tribuneindia.com/rss/feed?catId=34" text="The Tribune - Jalandhar" title="The Tribune - Jalandhar" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=34" />
+    <outline htmlUrl="https://www.tribuneindia.com/rss/feed?catId=17" text="The Tribune - Amritsar" title="The Tribune - Amritsar" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=17" />
+    <outline htmlUrl="https://www.tribuneindia.com/rss/feed?catId=45" text="The Tribune - Punjab" title="The Tribune - Punjab" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=45" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/politics-punjabi-news" text="PTC NEWS Politics" title="PTC NEWS Politics" xmlUrl="https://www.ptcnews.tv/rssfeed/politics-punjabi-news" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/weather-news" text="PTC NEWS Weather" title="PTC NEWS Weather" xmlUrl="https://www.ptcnews.tv/rssfeed/weather-news" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/punjab-2" text="PTC NEWS Punjab" title="PTC NEWS Punjab" xmlUrl="https://www.ptcnews.tv/rssfeed/punjab-2" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/doaba" text="PTC NEWS Doaba" title="PTC NEWS Doaba" xmlUrl="https://www.ptcnews.tv/rssfeed/doaba" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/majha" text="PTC NEWS Majha" title="PTC NEWS Majha" xmlUrl="https://www.ptcnews.tv/rssfeed/majha" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/malwa" text="PTC NEWS Malwa" title="PTC NEWS Malwa" xmlUrl="https://www.ptcnews.tv/rssfeed/malwa" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/punjab" text="PTC NEWS Punjab Politics" title="PTC NEWS Punjab Politics" xmlUrl="https://www.ptcnews.tv/rssfeed/punjab" />
+</outline>
+    <outline text="Sikh World" title="Sikh World">    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/mukhwak" text="PTC NEWS Hukumnama" title="PTC NEWS Hukumnama" xmlUrl="https://www.ptcnews.tv/rssfeed/mukhwak" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/sikha-history" text="PTC NEWS Sikh history" title="PTC NEWS Sikh history" xmlUrl="https://www.ptcnews.tv/rssfeed/sikha-history" />
+    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/sikh-sargarmiyan" text="PTC NEWS Sikh Religious News" title="PTC NEWS Sikh Religious News" xmlUrl="https://www.ptcnews.tv/rssfeed/sikh-sargarmiyan" />
+</outline>
+    <outline text="Punjabi Virsa" title="Punjabi Virsa">    <outline htmlUrl="https://www.ptcnews.tv/rssfeed/sada-virsa" text="PTC NEWS Sada virsa" title="PTC NEWS Sada virsa" xmlUrl="https://www.ptcnews.tv/rssfeed/sada-virsa" />
+</outline>
+    <outline text="Agriculture " title="Agriculture ">    <outline htmlUrl="https://www.agri-pulse.com/rss/topic/71-news" text="Agri-Pulse News" title="Agri-Pulse News" xmlUrl="https://www.agri-pulse.com/rss/topic/71-news" />
+</outline>
+    <outline text="Movies" title="Movies">    <outline htmlUrl="https://vegamovies3.com/feed/" text="Vegamovies" title="Vegamovies" xmlUrl="https://vegamovies3.com/feed/" />
+    <outline htmlUrl="https://7hitmovies.dev/feed/" text="7hitmovies – 7hitmovies.com 7hitmovie.net 7hit movies free Official with 7hitmovies in 4K 2160p 1080p hdrip 7hitmovies.com 7Hitmovies info 7Hitmovies press 7Hitmovies org 7Hitmovies mobi 2024 7HitMovies mkv mp4" title="7hitmovies – 7hitmovies.com 7hitmovie.net 7hit movies free Official with 7hitmovies in 4K 2160p 1080p hdrip 7hitmovies.com 7Hitmovies info 7Hitmovies press 7Hitmovies org 7Hitmovies mobi 2024 7HitMovies mkv mp4" xmlUrl="https://7hitmovies.dev/feed/" />
+    <outline htmlUrl="https://luxmovies.vip/feed/" text="LuxMovies" title="LuxMovies" xmlUrl="https://luxmovies.vip/feed/" />
+</outline>
+  </body>
+</opml>
