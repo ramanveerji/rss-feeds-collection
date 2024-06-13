@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Android</title>
+                    </head>
+                    <body>
+                        <outline text="http://feeds.androidcentral.com/androidcentral" title="http://feeds.androidcentral.com/androidcentral" type="rss" xmlUrl="http://feeds.androidcentral.com/androidcentral" htmlUrl="http://feeds.androidcentral.com/androidcentral" />
+                    </body>
+                </opml>

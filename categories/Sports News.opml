@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Sports News</title>
+                    </head>
+                    <body>
+                        <outline text="https://www.theguardian.com/sport/cricket/rss" title="https://www.theguardian.com/sport/cricket/rss" type="rss" xmlUrl="https://www.theguardian.com/sport/cricket/rss" htmlUrl="https://www.theguardian.com/sport/cricket/rss" />
+                        <outline text="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" title="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" type="rss" xmlUrl="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" htmlUrl="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" />
+                    </body>
+                </opml>

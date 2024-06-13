@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Sikh World</title>
+                    </head>
+                    <body>
+                        <outline text="https://www.ptcnews.tv/rssfeed/mukhwak" title="https://www.ptcnews.tv/rssfeed/mukhwak" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/mukhwak" htmlUrl="https://www.ptcnews.tv/rssfeed/mukhwak" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/sikha-history" title="https://www.ptcnews.tv/rssfeed/sikha-history" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/sikha-history" htmlUrl="https://www.ptcnews.tv/rssfeed/sikha-history" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/sikh-sargarmiyan" title="https://www.ptcnews.tv/rssfeed/sikh-sargarmiyan" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/sikh-sargarmiyan" htmlUrl="https://www.ptcnews.tv/rssfeed/sikh-sargarmiyan" />
+                    </body>
+                </opml>

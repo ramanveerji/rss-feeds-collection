@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Indian News</title>
+                    </head>
+                    <body>
+                        <outline text="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml" title="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml" htmlUrl="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml" />
+                        <outline text="https://www.theguardian.com/world/india/rss" title="https://www.theguardian.com/world/india/rss" type="rss" xmlUrl="https://www.theguardian.com/world/india/rss" htmlUrl="https://www.theguardian.com/world/india/rss" />
+                        <outline text="https://www.thehindu.com/feeder/default.rss" title="https://www.thehindu.com/feeder/default.rss" type="rss" xmlUrl="https://www.thehindu.com/feeder/default.rss" htmlUrl="https://www.thehindu.com/feeder/default.rss" />
+                        <outline text="https://www.bhaskar.com/rss-feed/1061/" title="https://www.bhaskar.com/rss-feed/1061/" type="rss" xmlUrl="https://www.bhaskar.com/rss-feed/1061/" htmlUrl="https://www.bhaskar.com/rss-feed/1061/" />
+                    </body>
+                </opml>

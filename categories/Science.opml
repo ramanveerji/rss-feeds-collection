@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Science</title>
+                    </head>
+                    <body>
+                        <outline text="https://phys.org/rss-feed/" title="https://phys.org/rss-feed/" type="rss" xmlUrl="https://phys.org/rss-feed/" htmlUrl="https://phys.org/rss-feed/" />
+                        <outline text="https://www.theguardian.com/science/space/rss" title="https://www.theguardian.com/science/space/rss" type="rss" xmlUrl="https://www.theguardian.com/science/space/rss" htmlUrl="https://www.theguardian.com/science/space/rss" />
+                    </body>
+                </opml>

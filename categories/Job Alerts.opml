@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Job Alerts</title>
+                    </head>
+                    <body>
+                        <outline text="https://feeds.feedburner.com/freejobalert" title="https://feeds.feedburner.com/freejobalert" type="rss" xmlUrl="https://feeds.feedburner.com/freejobalert" htmlUrl="https://feeds.feedburner.com/freejobalert" />
+                        <outline text="https://affairscloud.com/jobs/feed/" title="https://affairscloud.com/jobs/feed/" type="rss" xmlUrl="https://affairscloud.com/jobs/feed/" htmlUrl="https://affairscloud.com/jobs/feed/" />
+                        <outline text="https://studycafe.in/feed/" title="https://studycafe.in/feed/" type="rss" xmlUrl="https://studycafe.in/feed/" htmlUrl="https://studycafe.in/feed/" />
+                        <outline text="https://studycafe.in/tag/recruitment-2024/feed/" title="https://studycafe.in/tag/recruitment-2024/feed/" type="rss" xmlUrl="https://studycafe.in/tag/recruitment-2024/feed/" htmlUrl="https://studycafe.in/tag/recruitment-2024/feed/" />
+                        <outline text="https://cdc.org.in/feed/" title="https://cdc.org.in/feed/" type="rss" xmlUrl="https://cdc.org.in/feed/" htmlUrl="https://cdc.org.in/feed/" />
+                    </body>
+                </opml>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Movies</title>
+                    </head>
+                    <body>
+                        <outline text="https://vegamovies3.com/feed/" title="https://vegamovies3.com/feed/" type="rss" xmlUrl="https://vegamovies3.com/feed/" htmlUrl="https://vegamovies3.com/feed/" />
+                        <outline text="https://luxmovies.vip/feed/" title="https://luxmovies.vip/feed/" type="rss" xmlUrl="https://luxmovies.vip/feed/" htmlUrl="https://luxmovies.vip/feed/" />
+                        <outline text="https://7hitmovies.dev/feed/" title="https://7hitmovies.dev/feed/" type="rss" xmlUrl="https://7hitmovies.dev/feed/" htmlUrl="https://7hitmovies.dev/feed/" />
+                    </body>
+                </opml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Punjab News</title>
+                    </head>
+                    <body>
+                        <outline text="https://www.tribuneindia.com/rss/feed?catId=34" title="https://www.tribuneindia.com/rss/feed?catId=34" type="rss" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=34" htmlUrl="https://www.tribuneindia.com/rss/feed?catId=34" />
+                        <outline text="https://www.tribuneindia.com/rss/feed?catId=17" title="https://www.tribuneindia.com/rss/feed?catId=17" type="rss" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=17" htmlUrl="https://www.tribuneindia.com/rss/feed?catId=17" />
+                        <outline text="https://www.tribuneindia.com/rss/feed?catId=45" title="https://www.tribuneindia.com/rss/feed?catId=45" type="rss" xmlUrl="https://www.tribuneindia.com/rss/feed?catId=45" htmlUrl="https://www.tribuneindia.com/rss/feed?catId=45" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/politics-punjabi-news" title="https://www.ptcnews.tv/rssfeed/politics-punjabi-news" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/politics-punjabi-news" htmlUrl="https://www.ptcnews.tv/rssfeed/politics-punjabi-news" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/weather-news" title="https://www.ptcnews.tv/rssfeed/weather-news" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/weather-news" htmlUrl="https://www.ptcnews.tv/rssfeed/weather-news" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/punjab-2" title="https://www.ptcnews.tv/rssfeed/punjab-2" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/punjab-2" htmlUrl="https://www.ptcnews.tv/rssfeed/punjab-2" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/doaba" title="https://www.ptcnews.tv/rssfeed/doaba" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/doaba" htmlUrl="https://www.ptcnews.tv/rssfeed/doaba" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/majha" title="https://www.ptcnews.tv/rssfeed/majha" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/majha" htmlUrl="https://www.ptcnews.tv/rssfeed/majha" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/malwa" title="https://www.ptcnews.tv/rssfeed/malwa" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/malwa" htmlUrl="https://www.ptcnews.tv/rssfeed/malwa" />
+                        <outline text="https://www.ptcnews.tv/rssfeed/punjab" title="https://www.ptcnews.tv/rssfeed/punjab" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/punjab" htmlUrl="https://www.ptcnews.tv/rssfeed/punjab" />
+                    </body>
+                </opml>

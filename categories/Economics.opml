@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Economics</title>
+                    </head>
+                    <body>
+                        <outline text="https://economictimes.indiatimes.com/rssfeedsdefault.cms" title="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" htmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" />
+                    </body>
+                </opml>

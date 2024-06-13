@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <opml version="2.0">
+                    <head>
+                        <title>Quotes</title>
+                    </head>
+                    <body>
+                        <outline text="https://www.ptcnews.tv/rssfeed/thought-of-day" title="https://www.ptcnews.tv/rssfeed/thought-of-day" type="rss" xmlUrl="https://www.ptcnews.tv/rssfeed/thought-of-day" htmlUrl="https://www.ptcnews.tv/rssfeed/thought-of-day" />
+                    </body>
+                </opml>
