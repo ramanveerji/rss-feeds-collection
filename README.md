@@ -18,6 +18,7 @@ Category | OPML
 [Agriculture](#Agriculture) | [Agriculture](https://raw.githubusercontent.com/ramanveerji/rss-feeds-collection/main/categories/Agriculture.opml) |
 [Job Alerts](#Job-Alerts) | [Job Alerts](https://raw.githubusercontent.com/ramanveerji/rss-feeds-collection/main/categories/Job%20Alerts.opml) |
 [Movies](#Movies) | [Movies](https://raw.githubusercontent.com/ramanveerji/rss-feeds-collection/main/categories/Movies.opml) |
+[My Backup](#Backup) | [Backup](https://raw.githubusercontent.com/ramanveerji/rss-feeds-collection/main/my%20file/My%20Backup.opml)
 
 ### Indian News
 Title | RSS Feed Url | All Feeds 
@@ -107,3 +108,48 @@ Luxmovies | https://luxmovies.vip/feed/ | https://luxmovies.vip/
 <a href="https://f-droid.org/packages/me.ash.reader/">
      <img src="https://graph.org/file/cfba2526d47890945e1e1.jpg" alt="Read You" width="300" />
 </a>
+
+## Personal OPML Backup
+### Backup
+It contains the following with the respective headings
+Title | RSS Feed Url | 
+-------|------------------|
+BBC News - India | http://feeds.bbci.co.uk/news/world/asia/india/rss.xml | 
+India - The Guardian | https://www.theguardian.com/world/india/rss | 
+The Hindu - Home | https://www.thehindu.com/feeder/default.rss | 
+देश - दैनिक भास्कर | https://www.bhaskar.com/rss-feed/1061/ | 
+Tribune Jalandhar | https://www.tribuneindia.com/rss/feed?catId=34 | 
+Tribune Amritsar | https://www.tribuneindia.com/rss/feed?catId=17 | 
+Tribune Punjab | https://www.tribuneindia.com/rss/feed?catId=45 | 
+PTC News Politics | https://www.ptcnews.tv/rssfeed/politics-punjabi-news | 
+PTC News Weather | https://www.ptcnews.tv/rssfeed/weather-news |
+PTC News Punjab | https://www.ptcnews.tv/rssfeed/punjab-2 | 
+PTC News Doaba | https://www.ptcnews.tv/rssfeed/doaba |
+PTC News Majha | https://www.ptcnews.tv/rssfeed/majha | 
+PTC News Malwa | https://www.ptcnews.tv/rssfeed/malwa | 
+PTC News Punjab Politics | https://www.ptcnews.tv/rssfeed/punjab | 
+Hukumnama | https://www.ptcnews.tv/rssfeed/mukhwak |
+Sikh History | https://www.ptcnews.tv/rssfeed/sikha-history | 
+Sikh Religious News | https://www.ptcnews.tv/rssfeed/sikh-sargarmiyan | 
+PTC Punjabi Virsa | https://www.ptcnews.tv/rssfeed/sada-virsa |
+PTC Religion News | https://www.ptcnews.tv/rssfeed/religion |
+PTC Thought of the day | https://www.ptcnews.tv/rssfeed/thought-of-day | 
+Cricket - The Guardian | https://www.theguardian.com/sport/cricket/rss | 
+Cricket news from ESPN Cricinfo.com | http://www.espncricinfo.com/rss/content/story/feeds/0.xml |  
+Phys.org - latest science and technology news stories | https://phys.org/rss-feed/ |  
+Space - The Guardian | https://www.theguardian.com/science/space/rss | theguardian.com 
+Android Central - Android Forums, News, Reviews, Help and Android Wallpapers | http://feeds.androidcentral.com/androidcentral | 
+Economic Times | https://economictimes.indiatimes.com/rssfeedsdefault.cms | 
+Lightroom Killer Tips | https://lightroomkillertips.com/feed/ | 
+AgriPulse News | https://www.agri-pulse.com/rss/topic/71-news | 
+Free Job Alert | https://feeds.feedburner.com/freejobalert | 
+JobsCloud | https://affairscloud.com/jobs/feed/ | 
+StudyCafe | https://studycafe.in/feed/ | 
+StudyCafe Recruitment | https://studycafe.in/tag/recruitment-2024/feed/ | 
+CDC Recruitment | https://cdc.org.in/feed/ | 
+Vegamovies | https://vegamovies3.com/feed/ | 
+Luxmovies | https://luxmovies.vip/feed/ | 
+7hitmovies | https://7hitmovies.dev/feed/ | 
+
+## More RSS Feeds
+1. [Awesome RSS Feeds Github](https://github.com/plenaryapp/awesome-rss-feeds)
