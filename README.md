@@ -153,3 +153,7 @@ Luxmovies | https://luxmovies.vip/feed/ |
 
 ## More RSS Feeds
 1. [Awesome RSS Feeds Github](https://github.com/plenaryapp/awesome-rss-feeds)
+
+## RSS Feeds Finder
+Find the RSS Feeds from the websites using the following chrome extension(s)
+1. [RSS Feed URL Finder](https://chrome.google.com/webstore/detail/apfhghblgifegckccakakdlbjcdnbjmb)
