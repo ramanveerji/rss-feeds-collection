@@ -1,5 +1,5 @@
 # rss-feeds-collection
-Personal collection of rss feeds
+Personal collection of RSS Feeds
 
 ## My Personal Lists (Click to go to the section)
 Category | OPML
