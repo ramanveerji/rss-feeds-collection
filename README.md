@@ -19,6 +19,7 @@ Category | OPML
 [Job Alerts](#Job-Alerts) | [Job Alerts](https://raw.githubusercontent.com/ramanveerji/rss-feeds-collection/main/categories/Job%20Alerts.opml) |
 [Movies](#Movies) | [Movies](https://raw.githubusercontent.com/ramanveerji/rss-feeds-collection/main/categories/Movies.opml) |
 [My Backup](#Backup) | [Backup](https://raw.githubusercontent.com/ramanveerji/rss-feeds-collection/main/my%20file/My%20Backup.opml)
+[Telegram](#Telegram) |
 
 ### Indian News
 Title | RSS Feed Url | All Feeds 
@@ -98,6 +99,8 @@ Title | RSS Feed Url | Website Url
 Vegamovies | https://vegamovies3.com/feed/ | https://vegamovies3.com/
 Luxmovies | https://luxmovies.vip/feed/ | https://luxmovies.vip/
 7hitmovies | https://7hitmovies.dev/feed/ | https://7hitmovies.dev/
+### Telegram
+RSTips Channel | https://rss.app/feeds/h2iIM3N09UXI5Qg3.xml | https://telegram.me/rs_bro
 
 ## How to generate OPML Files
 1. Head over to https://rssgizmos.com/opmlmaker.html
