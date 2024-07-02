@@ -100,6 +100,8 @@ Vegamovies | https://vegamovies3.com/feed/ | https://vegamovies3.com/
 Luxmovies | https://luxmovies.vip/feed/ | https://luxmovies.vip/
 7hitmovies | https://7hitmovies.dev/feed/ | https://7hitmovies.dev/
 ### Telegram
+Title | RSS Feed Url | Website Url 
+-------|------------------|----------
 RSTips Channel | https://rss.app/feeds/h2iIM3N09UXI5Qg3.xml | https://telegram.me/rs_bro
 
 ## How to generate OPML Files
