@@ -162,3 +162,8 @@ Luxmovies | https://luxmovies.vip/feed/ |
 ## RSS Feeds Finder
 Find the RSS Feeds from the websites using the following chrome extension(s)
 1. [RSS Feed URL Finder](https://chrome.google.com/webstore/detail/apfhghblgifegckccakakdlbjcdnbjmb)
+
+## How to use these feeds?
+1. Either download the OPML files and import those in RSS feed readers.
+2. Or you can copy the RSS feed url and paste that in RSS feed readers to get the feeds or latest updates. 
+3. You can create folders also and put the respective feeds in it.
