@@ -153,8 +153,8 @@ StudyCafe | https://studycafe.in/feed/ |
 StudyCafe Recruitment | https://studycafe.in/tag/recruitment-2024/feed/ | 
 CDC Recruitment | https://cdc.org.in/feed/ | 
 Vegamovies | https://vegamovies3.com/feed/ | 
-Luxmovies | https://luxmovies.vip/feed/ | 
-7hitmovies | https://7hitmovies.dev/feed/ | 
+Luxmovies | https://luxmovies.live/feed/ | 
+7hitmovies | https://7hitmovies.forum/feed/ | 
 
 ## More RSS Feeds
 1. [Awesome RSS Feeds Github](https://github.com/plenaryapp/awesome-rss-feeds)
