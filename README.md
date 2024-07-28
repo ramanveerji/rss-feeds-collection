@@ -96,8 +96,8 @@ CDC Recruitment | https://cdc.org.in/feed/ | https://cdc.org.in/
 ### Movies
 Title | RSS Feed Url | Website Url
 -------|------------------|----------
-Vegamovies | https://vegamovies3.com/feed/ | https://vegamovies3.com/
-Luxmovies | https://luxmovies.vip/feed/ | https://luxmovies.vip/
+Vegamovies | https://vegamovies.tw/feed/ | https://vegamovies.tw/
+Luxmovies | https://luxmovies.wiki/feed/ | https://luxmovies.wiki/
 7hitmovies | https://7hitmovies.dev/feed/ | https://7hitmovies.dev/
 ### Telegram
 Title | RSS Feed Url | Website Url 
@@ -152,8 +152,8 @@ JobsCloud | https://affairscloud.com/jobs/feed/ |
 StudyCafe | https://studycafe.in/feed/ | 
 StudyCafe Recruitment | https://studycafe.in/tag/recruitment-2024/feed/ | 
 CDC Recruitment | https://cdc.org.in/feed/ | 
-Vegamovies | https://vegamovies3.com/feed/ | 
-Luxmovies | https://luxmovies.live/feed/ | 
+Vegamovies | https://vegamovies.tw/feed/ | 
+Luxmovies | https://luxmovies.wiki/feed/ | 
 7hitmovies | https://7hitmovies.forum/feed/ | 
 
 ## More RSS Feeds
